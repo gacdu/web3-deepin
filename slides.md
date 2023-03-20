@@ -25,7 +25,7 @@ transition: slide-left
 css: unocss
 ---
 
-# Welcome to deep in Web3
+# Deep in Web3
 
 Presentation slides for developers
 
